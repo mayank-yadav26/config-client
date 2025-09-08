@@ -29,7 +29,5 @@ This is a Spring Boot application that acts as a client for the Spring Cloud Con
 - Access REST endpoints as defined in `ConfigController`.
 
 ## Troubleshooting
-- If startup fails, check the config server URL and ensure the config repo contains the correct config files (e.g., `config-client.yml`).
+- If startup fails, check the config server URL and ensure the config repo contains the correct config files.
 
-## License
-MIT
